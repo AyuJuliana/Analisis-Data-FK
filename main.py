@@ -177,7 +177,7 @@ def main():
 
         clustered_df, model, scaler = perform_clustering(df)
 
-        st.write("📌 Tabel Hasil Clustering:")
+        st.subheader("📌 Tabel Hasil Clustering:")
         st.dataframe(clustered_df[[
             'Nama Perguruan Tinggi (NEW)', 'Provinsi (NEW)', 'Program Studi (NEW)',
             'Biaya UKT Tertinggi (REVISI)', 'Biaya Lainnya Tertinggi (REVISI)',
