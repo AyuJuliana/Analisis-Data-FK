@@ -44,7 +44,6 @@ def perform_clustering(df):
         'Akreditasi Skor',
         'Biaya UKT Tertinggi (REVISI)',
         'Biaya Lainnya Tertinggi (REVISI)',
-        'Daya Tampung 2025/2026 (NEW)'
     ]
     df_clustering = df.dropna(subset=clustering_features).copy()
     scaler = StandardScaler()
@@ -194,7 +193,7 @@ def main():
             clustered_df,
             x='Biaya UKT Tertinggi (REVISI)',
             y='Biaya Lainnya Tertinggi (REVISI)',
-            z='Daya Tampung 2025/2026 (NEW)',
+            z='Akreditasi (NEW REVISI)',
             color='Nama Cluster',
             hover_name='Nama Perguruan Tinggi (NEW)',
             title='Visualisasi Cluster dalam 3D'
@@ -204,7 +203,7 @@ def main():
         st.markdown("### 📉 Rata-Rata Tiap Fitur per Cluster")
         cluster_summary = clustered_df.groupby('Nama Cluster')[
             ['Akreditasi Skor', 'Biaya UKT Tertinggi (REVISI)', 
-             'Biaya Lainnya Tertinggi (REVISI)', 'Daya Tampung 2025/2026 (NEW)']
+             'Biaya Lainnya Tertinggi (REVISI)']
         ].mean().round(2)
         st.dataframe(cluster_summary)
 
