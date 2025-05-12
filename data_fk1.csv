@@ -1,0 +1,157 @@
+No. (NEW),Nama Perguruan Tinggi (NEW),Program Studi (NEW),Akreditasi (NEW REVISI),Program Studi  Kategori (NEW),Jenis Perguruan Tinggi (NEW),Provinsi (NEW),Lokasi (NEW),Daya Tampung 2025/2026 (NEW),Biaya UKT Terendah (REVISI),Biaya UKT Tertinggi (REVISI),Kisaran Biaya UKT (NEW),Biaya Lainnya Terendah (REVISI),Biaya Lainnya Tertinggi (REVISI)
+1,Universitas Muhammadiyah Sumatera Utara,Kedokteran,Unggul ,Kedokteran,Swasta,Sumatera Utara,Medan,500,30000000,30000000,Rp30.000.000,240750000,240750000
+4,Universitas Katolik Indonesia Atma Jaya,Kedokteran,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta,104,42275000,42275000,Rp42.275.000,45700000,331750000
+5,Universitas Katolik Indonesia Atma Jaya,Farmasi,Baik Sekali,Farmasi,Swasta,DKI Jakarta,Jakarta,64,14420000,14420000,Rp14.420.000,12000000,25000000
+6,Universitas Kristen Maranatha,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Jawa Barat,Bandung,310,51250000,56980000,Rp51.250.000 - Rp56.980.000,267000000,267000000
+7,Universitas Muhammadiyah Yogyakarta,Kedokteran,Unggul ,Kedokteran,Swasta,DI Yogyakarta,Yogyakarta,140,24960000,108266000,Rp24.960.000 - Rp108.266.000,0,0
+8,Universitas Muhammadiyah Yogyakarta,Keperawatan,Unggul ,Keperawatan,Swasta,DI Yogyakarta,Yogyakarta,140,7283500,19002500,Rp7.283.500 - Rp19.002.500,0,0
+9,Universitas Muhammadiyah Yogyakarta,Farmasi,Unggul ,Farmasi,Swasta,DI Yogyakarta,Yogyakarta,200,7283500,21999500,Rp7.283.500 - Rp21.999.500,0,0
+10,Universitas Islam Bandung,Kedokteran,A,Kedokteran,Swasta,Jawa Barat,Bandung,90,27600000,27600000,Rp27.000.000,0,129575000
+11,Universitas Yarsi,Kedokteran,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta,200,40000000,200000000,Rp40.000.000 - Rp200.000.000,1750000,1750000
+12,Universitas Pelita Harapan,Kedokteran,Unggul ,Kedokteran,Swasta,Banten,Tangerang,104,50325000,63000000,Rp50.325.000 - Rp63.000.000,278000000,278000000
+13,Universitas Abdurrab,Pendidikan Dokter,B,Kedokteran,Swasta,Riau,Pekanbaru,110,25000000,30000000,Rp25.000.000 - Rp30.000.000,317675000,317675000
+14,Universitas Abdurrab,Kebidanan,B,Kebidanan,Swasta,Riau,Pekanbaru,100,4950000,4950000,Rp4.950.000 - Rp4.950.000,14850000,14850000
+15,Universitas Andalas,Kedokteran,A,Kedokteran,Negeri,Sumatera Barat,Padang,255,500000,14500000,Rp500.000 - Rp14.500.000,100000000,100000000
+16,Universitas Andalas,Kebidanan,B,Kebidanan,Negeri,Sumatera Barat,Padang,100,500000,8500000,Rp500.000 - Rp8.500.000,15000000,15000000
+17,Universitas Andalas,Psikologi,B,Psikologi,Negeri,Sumatera Barat,Padang,149,500000,8000000,Rp500.000 - Rp8.000.000,15000000,15000000
+18,Universitas Andalas,Ilmu Biomedis,A,Ilmu Biomedis,Negeri,Sumatera Barat,Padang,55,500000,8500000,Rp500.000 - Rp8.500.000,15000000,15000000
+19,Universitas Jember,Pendidikan Dokter,Unggul ,Kedokteran,Negeri,Jawa Timur,Jember,178,500000,20000000,Rp500.000 - Rp20.000.000,100000000,150000000
+20,Universitas Jenderal Soedirman,Kedokteran Umum,Unggul ,Kedokteran,Negeri,Jawa Tengah,Purwokerto,110,500000,17500000,Rp500.000 - Rp17.500.000,100000000,400000000
+21,Universitas Jenderal Soedirman,Kedokteran Gigi,Unggul ,Kedokteran Gigi,Negeri,Jawa Tengah,Purwokerto,60,500000,15000000,Rp500.000 - Rp15.000.000,100000000,400000000
+22,Universitas Syiah Kuala,Pendidikan Dokter,Unggul ,Kedokteran,Negeri,Aceh,Aceh,250,500000,9000000,Rp500.000 - Rp9.000.000,30000000,30000000
+23,Universitas Syiah Kuala,Psikologi,Baik,Psikologi,Negeri,Aceh,Aceh,80,500000,22000000,Rp500.000 - Rp22.000.000,150000000,150000000
+24,Universitas Sumatera Utara,Kedokteran,Unggul ,Kedokteran,Negeri,Sumatera Utara,Medan,252,500000,32500000,Rp500.000 - Rp32.500.000,75000000,82000000
+25,Universitas Palangka Raya,Kedokteran,Baik Sekali,Kedokteran,Negeri,Kalimantan Tengah,Palangka Raya,115,500000,37831000,Rp500.000 - Rp37.831.000,0,120000000
+26,Universitas Palangka Raya,Teknologi Laboratorium Medis,Baik,Teknologi Laboratorium Medis,Negeri,Kalimantan Tengah,Palangka Raya,50,500000,31740000,Rp500.000 - Rp31.740.000,0,10000000
+27,Universitas Jambi,Farmasi,Baik Sekali,Farmasi,Negeri,Jambi,Jambi,80,500000,6000000,Rp500.000 - Rp6.000.000,7500000,7500000
+28,Universitas Jambi,Kedokteran,Baik Sekali,Kedokteran,Negeri,Jambi,Jambi,120,500000,12000000,Rp500.000 - Rp12.000.000,100000000,100000000
+29,Universitas Jambi,Ilmu Keperawatan,Baik Sekali,Keperawatan,Negeri,Jambi,Jambi,112,500000,6000000,Rp500.000 - Rp6.000.000,15000000,15000000
+30,Universitas Jambi,Ilmu Kesehatan Masyarakat,Baik Sekali,Kesehatan Masyarakat,Negeri,Jambi,Jambi,210,500000,6000000,Rp500.000 - Rp6.000.001,10000000,10000000
+31,Universitas Jambi,Psikologi,B,Psikologi,Negeri,Jambi,Jambi,63,500000,6000000,Rp500.000 - Rp6.000.002,20000000,20000000
+32,Universitas Nusa Cendana,Pendidikan Dokter,Baik Sekali,Kedokteran,Negeri,Nusa Tenggara Timur,Kupang,77,500000,22000000,Rp500.000 - Rp22.000.000,200000000,220000000
+33,Universitas Nusa Cendana,Kedokteran Hewan,Unggul ,Kedokteran Hewan,Negeri,Nusa Tenggara Timur,Kupang,56,500000,13500000,Rp500.000 - Rp13.500.000,12500000,15000000
+34,Universitas Nusa Cendana,Farmasi,Baik,Farmasi,Negeri,Nusa Tenggara Timur,Kupang,35,500000,15000000,Rp500.000 - Rp15.000.000,17500000,20000000
+35,Universitas Malikussaleh,Kedokteran,B,Kedokteran,Negeri,Aceh,Lhokseumawe,150,500000,18000000,Rp500.000 - Rp18.000.000,125000000,125000000
+36,Universitas Malikussaleh,Psikologi,B,Psikologi,Negeri,Aceh,Lhokseumawe,195,500000,5000000,Rp500.000 - Rp5.000.000,2500000,2500000
+37,Universitas Bengkulu,Kedokteran,Baik Sekali,Kedokteran,Negeri,Bengkulu,Bengkulu,60,500000,21500000,Rp500.000 - Rp21.500.000,125000000,125000000
+38,Universitas Lambung Makurat,Kedokteran,Unggul ,Kedokteran,Negeri,Kalimantan Selatan,Banjarmasin,150,500000,39475000,Rp500.000 - Rp39.475.000,0,0
+39,Universitas Lambung Makurat,Keperawatan,Unggul ,Keperawatan,Negeri,Kalimantan Selatan,Banjarmasin,120,500000,30052000,Rp500.000 - Rp30.052.000,0,0
+40,Universitas Lambung Makurat,Kesehatan Masyarakat,Unggul ,Kesehatan Masyarakat,Negeri,Kalimantan Selatan,Banjarmasin,125,500000,23242000,Rp500.000 - Rp23.242.000,0,0
+41,Universitas Lambung Makurat,Psikologi,Unggul ,Psikologi,Negeri,Kalimantan Selatan,Banjarmasin,120,500000,22273000,Rp500.000 - Rp22.273.000,0,0
+42,Universitas Islam Negeri Syarif Hidayatullah Jakarta,Kedokteran,A,Kedokteran,Negeri,DKI Jakarta,Jakarta,108,400000,65000000,Rp400.000 - Rp65.000.000,0,0
+43,Universitas Wijaya Kusuma Surabaya,Pendidikan Dokter,Baik Sekali,Kedokteran,Swasta,Jawa Timur,Surabaya,110,30000000,30000000,Rp30.000.000 - Rp30.000.000,296150000,296150000
+44,Universitas Brawijaya,Kedokteran,Unggul ,Kedokteran,Negeri,Jawa Timur,Malang,275,500000,33500000,Rp500.000 - Rp33.500.000,150000000,225000000
+45,Universitas Brawijaya,Farmasi,Unggul ,Farmasi,Negeri,Jawa Timur,Malang,150,500000,12000000,Rp500.000 - Rp12.000.000,59100000,110000000
+46,Universitas Brawijaya,Kebidanan,Unggul ,Kebidanan,Negeri,Jawa Timur,Malang,150,500000,12000000,Rp500.000 - Rp12.000.000,35000000,43000000
+47,Universitas Katolik Widya Mandala,Kedokteran,Baik Sekali,Kedokteran,Swasta,Jawa Timur,Surabaya,100,27500000,27500000,Rp27.500.000 - Rp27.500.000,300000000,350000000
+48,Universitas Hang Tuah,Kedokteran,Unggul ,Kedokteran,Swasta,Jawa Timur,Surabaya,2,34300000,34300000,Rp34.300.000 - Rp34.300.000,303800000,353800000
+49,Universitas Methodist Indonesia,Kedokteran,Unggul ,Kedokteran,Swasta,Sumatera Utara,Medan,43,29310000,29310000,Rp29.310.000 - Rp29.310.000,1900000,1900000
+50,Universitas Muhammadiyah Jakarta,Kedokteran,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta,153,31900000,112600000,Rp31.900.000 - Rp112.600.000,1000000,1000000
+51,Universitas Muhammadiyah Jakarta,Kebidanan,Unggul ,Kebidanan,Swasta,DKI Jakarta,Jakarta,40,4525000,13800000,Rp4.525.000 - Rp13.800.000,500000,500000
+52,Universitas Muhammadiyah Jakarta,Gizi,Unggul ,Gizi,Swasta,DKI Jakarta,Jakarta,30,3762000,10700000,Rp3.762.000 - Rp10.700.000,400000,400000
+53,Universitas Alkhairaat,Kedokteran,Baik Sekali,Kedokteran,Swasta,Sulawesi Tengah,Palu,24,15500000,15500000,Rp15.500.000 - Rp15.500.000,300000000,300000000
+54,Universitas Hkbp Nommensen,Kedokteran,Baik Sekali,Kedokteran,Swasta,Sumatera Utara,Medan,108,60000000,60000000,Rp60.000.000 - Rp60.000.000,80000000,80000000
+55,Universitas Muhammadiyah Surakarta,Kedokteran,Unggul ,Kedokteran,Swasta,Jawa Tengah,Surakarta,235,24696000,25872000,Rp24.696.000 - Rp25.872.000,254100000,254100000
+56,Universitas Mulawarman,Kedokteran ,Unggul ,Kedokteran,Negeri,Kalimantan Timur,Samarinda,150,1000000,20000000,Rp1.000.000 - Rp20.000.000,100000000,250000000
+57,Universitas Mulawarman,Kedokteran Gigi,Baik Sekali,Kedokteran Gigi,Negeri,Kalimantan Timur,Samarinda,60,500000,25000000,Rp500.000 - Rp25.000.000,100000000,250000000
+58,Universitas Mulawarman,Keperawatan,Baik,Keperawatan,Negeri,Kalimantan Timur,Samarinda,15,500000,9000000,Rp500.000 - Rp9.000.000,15000000,30000000
+59,Universitas Islam Al-Azhar,Pendidikan Dokter,Baik Sekali,Kedokteran,Swasta,Nusa Tenggara Barat,Mataram,153,17500000,17500000,Rp17.500.000 - Rp17.500.000,335000000,345000000
+60,Universitas Gadjah Mada,Kedokteran,Unggul ,Kedokteran,Negeri,DI Yogyakarta,Yogyakarta,175,0,24700000,Rp0 - Rp24.700.000,30000000,30000000
+61,Universitas Gadjah Mada,Ilmu Keperawatan,Unggul ,Keperawatan,Negeri,DI Yogyakarta,Yogyakarta,120,0,17300000,Rp0 - Rp13.000.000,30000000,30000000
+62,Universitas Gadjah Mada,Gizi Kesehatan,Unggul ,Gizi,Negeri,DI Yogyakarta,Yogyakarta,100,0,12300000,Rp0 - Rp12.300.000,30000000,30000000
+63,Universitas Nahdlatul Ulama Surabaya,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Jawa Timur,Surabaya,142,28000000,31000000,Rp28.000.000 - Rp31.000.000,290000000,330000000
+64,Universitas Indonesia,Pendidikan Dokter,A,Kedokteran,Negeri,DKI Jakarta,Jakarta,150,500000,20000000,Rp500.000 - Rp20.000.000,122870000,161670000
+65,Universitas Hasanuddin,Kedokteran ,Unggul ,Kedokteran,Negeri,Sulawesi Selatan,Makassar,131,500000,41120000,Rp500.000 - Rp41.120.000,250000000,325000000
+66,Universitas Hasanuddin,Psikologi,A,Psikologi,Negeri,Sulawesi Selatan,Makassar,53,500000,23242000,Rp500.000 - Rp23.242.000,90000000,115000000
+67,Universitas Hasanuddin,Kedokteran Hewan,Unggul ,Kedokteran Hewan,Negeri,Sulawesi Selatan,Makassar,65,500000,37831000,Rp500.000 - Rp37.831.000,115000000,150000000
+68,Universitas Airlangga,Kebidanan,Unggul ,Kebidanan,Negeri,Jawa Timur,Surabaya,100,500000,25000000,Rp500.000 - Rp25.000.000,15000000,Rp225.000.00
+69,Universitas Airlangga,Kedokteran,Unggul ,Kedokteran,Negeri,Jawa Timur,Surabaya,300,500000,13500000,Rp500.000 - Rp13.500.000,8000000,55000000
+70,Universitas Muslim Indonesia,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Sulawesi Selatan,Makassar,110,25000000,25000000,Rp25.000.000,395500000,395500000
+71,Universitas Muhammadiyah Makassar,Pendidikan Dokter,A,Kedokteran,Swasta,Sulawesi Selatan,Makassar,285,19500000,19500000,Rp19.500.000 - Rp19.500.000,310500000,310500000
+72,Universitas Sriwijaya,Ilmu Keperawatan,Unggul ,Keperawatan,Negeri,Sumatera Selatan,Palembang,30,2100000,8250000,Rp2.100.000 - Rp8.250.000,200000000,200000000
+73,Universitas Sriwijaya,Kedokteran Gigi,Baik Sekali,Kedokteran Gigi,Negeri,Sumatera Selatan,Palembang,40,3500000,11000000,Rp3.500.000 - Rp11.000.000,200000000,200000000
+74,Universitas Sriwijaya,Pendidikan Dokter,Unggul ,Kedokteran,Negeri,Sumatera Selatan,Palembang,50,4550000,20000000,Rp4.550.000 - Rp20.000.000,200000000,200000000
+75,Universitas Sriwijaya,Psikologi,B,Psikologi,Negeri,Sumatera Selatan,Palembang,36,3350000,9900000,Rp3.350.000 - Rp9.900.000,200000000,200000000
+76,Universitas Riau,Kedokteran,Unggul ,Kedokteran,Negeri,Riau,Pekanbaru,72,500000,23400000,Rp500.000 - Rp23.400.000,115000000,115000000
+77,Universitas Udayana,Fisioterapi,Baik Sekali,Fisioterapi,Negeri,Bali,Denpasar,70,500000,13500000,Rp500.000 - Rp13.500.000,0,30000000
+78,Universitas Udayana,Ilmu keperawatan,Unggul ,Keperawatan,Negeri,Bali,Denpasar,100,500000,9700000,Rp500.000 - Rp9.700.000,0,30000000
+79,Universitas Udayana,Ilmu Kesehatan Masyarakat,Unggul ,Kesehatan Masyarakat,Negeri,Bali,Denpasar,150,500000,9100000,Rp500.000 - Rp9.100.000,0,22500000
+80,Universitas Udayana,Kedokteran Gigi,Baik Sekali,Kedokteran Gigi,Negeri,Bali,Denpasar,100,500000,21350000,Rp500.000 - Rp21.350.000,0,125000000
+81,Universitas Udayana,Pendidikan Dokter,Baik Sekali,Kedokteran,Negeri,Bali,Denpasar,260,500000,23240000,Rp500.000 - Rp23.240.000,0,125000000
+82,Universitas Udayana,Psikologi,B,Psikologi,Negeri,Bali,Denpasar,120,500000,7900000,Rp500.000 - Rp7.900.000,0,25000000
+83,Universitas Sam Ratulangi,Kedokteran Gigi,Baik Sekali,Kedokteran Gigi,Negeri,Sulawesi Utara,Manado,25,3000000,24000000,Rp3.000.000 - Rp24.000.000,0,0
+84,Universitas Sam Ratulangi,Pendidikan Dokter,Unggul ,Kedokteran,Negeri,Sulawesi Utara,Manado,100,3000000,25000000,Rp3.000.000 - Rp25.000.000,0,0
+85,Universitas Mataram,Kedokteran,Unggul ,Kedokteran,Negeri,Nusa Tenggara Barat,Mataram,113,500000,22000000,Rp500.000 - Rp22.000.000,25000000,500000000
+86,Universitas Mataram,Farmasi,Baik Sekali,Farmasi,Negeri,Nusa Tenggara Barat,Mataram,45,500000,15500000,Rp500.000 - Rp15.500.000,10000000,100000000
+87,Universitas Diponegoro,Kedokteran,Unggul ,Kedokteran,Negeri,Jawa Tengah,Semarang,310,500000,22000000,Rp500.000 - Rp22.000.000,200000,250000000
+88,Universitas Diponegoro,Ilmu Gizi,Unggul ,Gizi,Negeri,Jawa Tengah,Semarang,175,500000,9000000,Rp500.000 - Rp9.000.000,35000000,50000000
+89,Universitas Diponegoro,Farmasi,B,Farmasi,Negeri,Jawa Tengah,Semarang,90,500000,12500000,Rp500.000 - Rp12.500.000,40000000,50000000
+90,Universitas Diponegoro,Kedokteran Gigi,Baik Sekali,Kedokteran Gigi,Negeri,Jawa Tengah,Semarang,50,500000,22000000,Rp500.000 - Rp22.000.000,150000000,200000000
+91,Universitas Islam Indonesia,Pendidikan Dokter,A,Kedokteran,Swasta,DI Yogyakarta,Yogyakarta,180,11500000,11500000,Rp11.500.000,195000000,295000000
+92,Universitas Padjajaran,Kedokteran Hewan,Baik Sekali,Kedokteran Hewan,Negeri,Jawa Barat,Sumedang,24,500000,20500000,Rp500.000 - Rp20.500.000,20500000,195000000
+93,Universitas Padjajaran,Kedokteran,Unggul ,Kedokteran,Negeri,Jawa Barat,Sumedang,99,500000,12500000,Rp500.000 - Rp12.500.000,11000000,70000000
+94,Universitas Muhammadiyah Purwokerto,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Jawa Tengah,Purwokerto,135,20515000,252865000,Rp20.515.000 - Rp252.865.000,0,0
+95,Universitas Sebelas Maret,Kedokteran,Unggul ,Kedokteran,Negeri,Jawa Tengah,Surakarta,72,500000,21815000,Rp500.000 - Rp21.815.000,25000000,269920000
+96,Universitas Sebelas Maret,Kebidanan,Baik Sekali,Kebidanan,Negeri,Jawa Tengah,Surakarta,21,500000,16829000,Rp500.000 - Rp16.829.000,25000000,75000000
+97,Universitas Warmadewa,Kedokteran,Unggul ,Kedokteran,Swasta,Bali,Denpasar,250,15000000,15000000,Rp15.000.000,6025000,100000000
+98,Institut Pertanian Bogor,Kedokteran,Baik,Kedokteran,Negeri,Jawa Barat,Bogor,50,500000,20000000,Rp500.000 - Rp20.000.000,135000000,150000000
+99,Universitas Jenderal Achmad Yani,Kedokteran,Unggul ,Kedokteran,Swasta,Jawa Barat,Cimahi,216,20000000,30000000,Rp20.000.000 - Rp30.000.000,0,0
+100,Universitas Jenderal Achmad Yani,Kedokteran Gigi,Unggul ,Keperawatan,Swasta,Jawa Barat,Cimahi,96,8000000,12000000,Rp8.000.000 - Rp12.000.000,0,0
+101,Universitas Trisakti,Kedokteran,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta Barat,260,35000000,35000000,Rp622.400.000 - Rp672.400.000,382500000,432500000
+102,Universitas Muhammadiyah Malang,Kedokteran,Unggul ,Kedokteran,Swasta,Jawa Timur,Malang,50,25300000,25300000,Rp25.300.000,2000000,225000000
+103,Universitas Tarumanagara,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta Barat,263,40500000,40500000,Rp40.500.000,400000000,400000000
+104,Universitas Muhammadiyah Palembang,Kedokteran,Baik Sekali,Kedokteran,Swasta,Sumatera Selatan,Palembang,120,56113000,56113000,Rp56.113.000 - Rp56.113.000,0,0
+105,Universitas Lampung,Pendidikan Dokter,A,Kedokteran,Negeri,Lampung,Lampung,193,1000000,12380000,Rp1.000.000 - Rp12.380.000,0,0
+106,Universitas Kristen Krida Wacana,Kedokteran,Baik Sekali,Kedokteran,Swasta,DKI Jakarta,Jakarta Barat,170,40000000,40000000,Rp40.000.000,350000000,350000000
+107,Universitas Kristen Krida Wacana,Keperawatan,Baik,Keperawatan,Swasta,DKI Jakarta,Jakarta Barat,12,9000000,9000000,Rp9.000.000,10000000,10000000
+108,Universitas Kristen Indonesia,Kedokteran,Unggul ,Kedokteran,Swasta,DKI Jakarta,Jakarta Timur,205,25500000,25500000,Rp25.500.000,259200000,310950000
+109,Universitas Negeri Surabaya,Kedokteran,Baik,Kedokteran,Negeri,Jawa Timur,Surabaya,50,1000000,30000000,Rp1.000.000 - Rp30.000.000,0,0
+110,Universitas Negeri Surabaya,Fisioterapi,Baik,Fisioterapi,Negeri,Jawa Timur,Surabaya,50,500000,8000000,Rp500.000 - Rp8.000.000,0,0
+111,Universitas Negeri Surabaya,Kebidanan,Baik,Kebidanan,Negeri,Jawa Timur,Surabaya,50,500000,8000000,Rp500.000 - Rp8.000.001,0,0
+112,Universitas Negeri Surabaya,Keperawatan,Baik,Keperawatan,Negeri,Jawa Timur,Surabaya,50,500000,8000000,Rp500.000 - Rp8.000.002,0,0
+113,Universitas Prima Indonesia,Pendidikan Dokter,A,Kedokteran,Swasta,Sumatera Utara,Medan,187,25000000,30000000,Rp25.000.000 - Rp30.000.000,0,0
+114,Universitas Prima Indonesia,Pendidikan Dokter Gigi,Baik Sekali,Kedokteran Gigi,Swasta,Sumatera Utara,Medan,58,20000000,25000000,Rp20.000.000 - Rp25.000.000,0,0
+115,Universitas Islam Sultan Agung,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Jawa Tengah,Semarang,260,38600000,38600000,Rp38.600.000,290000000,440000000
+116,Universitas Batam,Pendidikan Dokter,Unggul ,Kedokteran,Swasta,Kepulauan Riau,Batam,100,14000000,21675000,Rp14.500.000 - Rp21.675.000,250000,270000000
+117,Universitas Batam,Ilmu Keperawatan,Baik Sekali,Keperawatan,Swasta,Kepulauan Riau,Batam,70,14500000,21675000,Rp14.500.000 - Rp21.675.000,600000,270000000
+118,Universitas Batam,Kebidanan,Baik Sekali,Kebidanan,Swasta,Kepulauan Riau,Batam,20,2800000,4725000,Rp2.800.000 - Rp4.725.000,250000,21000000
+119,Universitas Cendrawasih,Pendidikan Dokter,Baik Sekali,Kedokteran,Negeri,Papua,Jayapura,40,1000000,10000000,Rp1.000.000 - Rp10.000.000,0,0
+120,Universitas Cendrawasih,Ilmu Keperawatan,Baik Sekali,Keperawatan,Negeri,Papua,Jayapura,20,1000000,5000000,Rp1.000.000 - Rp5.000.000,0,0
+121,Universitas Haluoleo,Pendidikan Dokter,Baik Sekali,Kedokteran,Negeri,Sulawesi Tenggara,Kendari,48,500000,20000000,Rp500.000 - Rp20.000.000,0,0
+122,Universitas Kristen Duta Wacana,Kedokteran,Baik Sekali,Kedokteran,Swasta,DI Yogyakarta,Yogyakarta,60,15500000,15500000,Rp15.500.000,0,0
+123,Universitas Pattimura,Pendidikan Dokter,Baik Sekali,Kedokteran,Negeri,Maluku,Ambon,60,12500000,12500000,Rp12.500.000,0,0
+124,Universitas Tanjungpura,Kedokteran,Baik Sekali,Kedokteran,Negeri,Kalimantan Barat,Pontianak,55,500000,20000000,Rp500.000 - Rp20.000.000,0,0
+125,Universitas Tanjungpura,Keperawatan,Baik Sekali,Keperawatan,Negeri,Kalimantan Barat,Pontianak,73,500000,14960000,Rp500.000 - Rp14.960.000,0,0
+126,Universitas Tanjungpura,Farmasi,B,Farmasi,Negeri,Kalimantan Barat,Pontianak,96,500000,16300000,Rp500.000 - Rp16.300.000,0,0
+127,Universitas Negeri Gorontalo,Kedokteran,Baik,Kedokteran,Negeri,Gorontalo,Gorontalo,55,500000,25000000,Rp500.000 - Rp25.000.000,0,0
+128,Universitas Muhammadiyah Semarang,Kedokteran,Unggul ,Kedokteran,Swasta,Jawa Tengah,Jawa Tengah,193,24000000,24000000,Rp24.000.000,338500000,460000000
+129,Universitas Islam Negeri Maulana Malik Ibrahim Malang,Pendidikan Dokter,Unggul ,Kedokteran,Negeri,Jawa Timur,Malang,75,400000,32641700,Rp400.000 - Rp32.641.700,0,0
+130,"Universitas Pembangunan Nasional ""Veteran"" Jakarta",Kedokteran,Unggul ,Kedokteran,Negeri,DKI Jakarta,Jakarta Selatan,41,500000,22300000,Rp500.000 - Rp22.300.000,0,0
+131,Universitas Pendidikan Ganesha,Kebidanan,Baik Sekali,Kebidanan,Negeri,Bali,Singaraja,40,500000,12500000,Rp500.000 - Rp12.500.000,20000000,20000000
+132,Universitas Pendidikan Ganesha,Keperawatan,Baik,Keperawatan,Negeri,Bali,Singaraja,40,500000,12500000,Rp500.000 - Rp12.500.001,20000000,20000000
+133,Universitas Pendidikan Ganesha,Kedokteran,Baik Sekali,Kedokteran,Negeri,Bali,Singaraja,150,500000,21389000,Rp500.000 - Rp21.389.000,300000000,300000000
+134,Universitas Malahayati,Kedokteran,Baik Sekali,Kedokteran,Swasta,Lampung,Lampung,100,15000000,50000000,Rp15.000.000 - Rp50.000.000,52500000,62500000
+135,Universitas Swadaya Gunung Jati Cirebon,Kedokteran,B,Kedokteran,Swasta,Jawa Barat,Cirebon,100,3000000,12000000,Rp3.000.000 - Rp12.000.000,0,0
+136,Universitas Tadulako,Kedokteran,Baik Sekali,Kedokteran,Negeri,Sulawesi Tengah,Palu,20,500000,25000000,Rp500.000 - Rp25.000.000,350000000,350000000
+137,Universitas Abulyatama,Kedokteran,Baik Sekali,Kedokteran,Swasta,Aceh,Aceh,100,12000000,12000000,Rp12.000.000,250000000,300000000
+138,Universitas Islam Sumatera Utara,Kedokteran,Baik Sekali,Kedokteran,Swasta,Sumatera Utara,Medan,80,30000000,30000000,Rp30.000.000,240000000,240000000
+139,Universitas Islam Malang,Pendidikan Dokter,Baik Sekali,Kedokteran,Swasta,Jawa Timur,Malang,100,4000000,20000000,Rp4.000.000 - Rp20.000.000,5000000,7000000
+140,Universitas Islam Malang,Farmasi,C,Farmasi,Swasta,Jawa Timur,Malang,120,3500000,15000000,Rp3.500.000 - Rp15.000.000,5000000,7000000
+141,Universitas Tanjung Pura,Kedokteran,Baik Sekali,Kedokteran,Negeri,Kalimantan Barat,Pontianak,30,500000,20000000,Rp500.000 - Rp20.000.000,500000,4000000
+142,Universitas Tanjung Pura,Keperawatan,Baik Sekali,Keperawatan,Negeri,Kalimantan Barat,Pontianak,65,500000,6050000,Rp500.000 - Rp6.050.000,500000,4000000
+143,Universitas Tanjung Pura,Farmasi,B,Farmasi,Negeri,Kalimantan Barat,Pontianak,75,500000,4000000,Rp500.000 - Rp4.000.000,500000,4000000
+144,Universitas Pembangunan Nasional Veteran Jakarta,Kedokteran,Unggul ,Kedokteran,Negeri,DKI Jakarta,Jakarta,205,500000,22300000,Rp500.000 - Rp23.300.000,10000000,200000000
+145,Universitas Pembangunan Nasional Veteran Jakarta,Farmasi,Baik Sekali,Farmasi,Negeri,DKI Jakarta,Jakarta,60,500000,10000000,Rp500.000 - Rp10.000.000,10000000,200000000
+146,Universitas Islam Negeri Alauddin,Kedokteran,Baik Sekali,Kedokteran,Negeri,Sulawesi Selatan,Makassar,70,0,34608000,Rp0 - Rp34.608.000,0,0
+147,Universitas Surabaya,Kedokteran,Baik Sekali,Kedokteran,Swasta,Jawa Timur,Surabaya,50,35000000,35000000,Rp35.000.000,9800000,285000000
+148,Universitas Bosowa,Kedokteran,B,Kedokteran,Swasta,Sulawesi Selatan,Makassar,148,15000000,15000000,Rp15.000.000,150000000,150000000
+149,Universitas Muhammadiyah Prof. Dr. Hamka,Kedokteran,Baik Sekali,Kedokteran,Swasta,DKI Jakarta,Jakarta,186,40000000,178000000,Rp40.000.000 - Rp178.000.000,40000000,110000000
+150,Universitas Mahasaraswati ,Kedokteran,Baik,Kedokteran,Swasta,Bali,Denpasar,25,18695000,24556250,Rp18.695.000 - Rp24.556.250,10950000,12500000
+151,Universitas Al-Azhar Mataram ,Pendidikan dokter,Baik Sekali,Kedokteran,Swasta,NTB,Mataram,110,17500000,17500000,Rp17.500.000,335000000,345000000
+152,Universitas Ciputra,Kedokteran,B,Kedokteran,Swasta,Jawa Timur,Surabaya,95,37500000,37500000,Rp37.500.000,340000000,340000000
+153,Universitas Sultan Ageng Tirtayasa,Kedokteran,Baik,Kedokteran,Negeri,Banten,Serang,50,500000,20000000,Rp500.000 - Rp20.000.000,32334000,32334000
+154,Universitas Sultan Ageng Tirtayasa,Keperawatan,Baik,Keperawatan,Negeri,Banten,Serang,70,500000,8750000,Rp500.000 - 8.750.000,25686000,25686000
+155,Universitas Sultan Ageng Tirtayasa,Gizi,Baik,Gizi,Negeri,Banten,Serang,60,500000,6500000,Rp500.000 - Rp6.500.000,19037000,19037000
+156,Universitas Sultan Ageng Tirtayasa,Ilmu Kolahragaan,Baik,Ilmu Kolahragaan,Negeri,Banten,Serang,60,500000,7500000,Rp500.000-Rp7.500.000,13494000,13494000
+157,Universitas Soegijapranata,Pendidikan Dokter,Baik,Kedokteran,Swasta,Jawa Tengah,Semarang ,50,25000000,25000000,Rp25.000.000,300000000,300000000
+158,Universitas Negeri Khairun,Ilmu Kedokteran,Baik Sekali,Kedokteran,Negeri,Maluku Utara,Ternate,38,500000,25000000,Rp500.000 - Rp25.000.000,26597000,26597000
