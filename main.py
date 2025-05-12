@@ -173,7 +173,7 @@ def main():
     # Clustering Fakultas Kedokteran
     elif menu == "Clustering Fakultas Kedokteran":
         st.title("🔍 Clustering Fakultas Kedokteran")
-        st.subheader("Clustering Fakultas Kedokteran dengan KMeans")
+        st.subheader("Clustering Fakultas Kedokteran dengan KMeans berdasarkan akreditasi, biaya UKT tertinggi, dan biaya lainnya tertinggi.")
 
         clustered_df, model, scaler = perform_clustering(df)
 
